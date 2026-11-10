@@ -1,0 +1,14 @@
+# Visual Studio and build output
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Local booking records (may contain personal information)
+BookingData.txt
+**/BookingData.txt
+
+# OS files
+.DS_Store
+Thumbs.db
